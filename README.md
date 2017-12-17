@@ -6,8 +6,8 @@ You can use `ReminderAlertView` according to your application. For app review, p
 
 ## Usage
 ex)
-- You want users to display alert for push notification when they see product page 5 times. And if a user hits ok button once, you don't want to display the alert.
-- You want users to display alert for app review when they hit the like button 10 times. And if the alert is displayed once, you don't want to display it.
+- You want to display a alert for push notification when a user sees product page 5 times. And if a user hits ok button once, you don't want to display the alert.
+- You want to display a alert for app review when a user hits the like button 10 times. And if the alert is displayed once, you don't want to display it.
 
 **Register alerts in AppDelegate**
 ```swift
