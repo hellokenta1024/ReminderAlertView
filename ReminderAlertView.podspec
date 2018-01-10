@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "ReminderAlertView"
-  s.version      = "1.0.2"
+  s.version      = "1.0.3"
   s.summary      = "A alert view that can remind regularly"
   s.description  = <<-DESC
                     ReminderAlertView is inspired by Appirater (https://github.com/arashpayan/appirater)
